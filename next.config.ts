@@ -1,7 +1,5 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  // no static export, vercel server build
-};
+const nextConfig: NextConfig = {};
 
 export default nextConfig;
