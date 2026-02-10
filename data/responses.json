@@ -1,0 +1,129 @@
+[
+  {
+    "id": "1768035685508",
+    "submittedAt": "2026-01-10T09:01:25.508Z",
+    "department": "기획실",
+    "rank": "대리",
+    "q1_hasInterview": "yes",
+    "q2_time": "10분 미만",
+    "q3_method": "대면",
+    "q3_method_other": "",
+    "q4_guidance": "전혀 받지 못했다",
+    "q5_reason": [],
+    "q5_reason_other": "",
+    "q6_satisfaction": "만족",
+    "q7_scores": {
+      "items": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "q8_suggestions": "",
+    "q3_no_suggestions": ""
+  },
+  {
+    "id": "1768111177518",
+    "submittedAt": "2026-01-11T05:59:37.518Z",
+    "department": "기획실",
+    "rank": "부장",
+    "q1_hasInterview": "no",
+    "q2_time": "",
+    "q3_method": "",
+    "q3_method_other": "",
+    "q4_guidance": "",
+    "q5_reason": [
+      "일정상 어려움"
+    ],
+    "q5_reason_other": "",
+    "q6_satisfaction": "",
+    "q7_scores": {
+      "items": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "q8_suggestions": "",
+    "q3_no_suggestions": "면담"
+  },
+  {
+    "id": "1768111231716",
+    "submittedAt": "2026-01-11T06:00:31.716Z",
+    "department": "생산담당",
+    "rank": "대리",
+    "q1_hasInterview": "yes",
+    "q2_time": "10~20분",
+    "q3_method": "화상",
+    "q3_method_other": "",
+    "q4_guidance": "전혀 받지 못했다",
+    "q5_reason": [],
+    "q5_reason_other": "",
+    "q6_satisfaction": "만족",
+    "q7_scores": {
+      "items": [
+        1,
+        2,
+        4,
+        3,
+        3
+      ]
+    },
+    "q8_suggestions": "없습니다.",
+    "q3_no_suggestions": ""
+  },
+  {
+    "id": "1768112614945",
+    "submittedAt": "2026-01-11T06:23:34.945Z",
+    "department": "영업실",
+    "rank": "차장",
+    "q1_hasInterview": "yes",
+    "q2_time": "40분 이상",
+    "q3_method": "대면",
+    "q3_method_other": "",
+    "q4_guidance": "충분히 받았다",
+    "q5_reason": [],
+    "q5_reason_other": "",
+    "q6_satisfaction": "만족",
+    "q7_scores": {
+      "items": [
+        6,
+        6,
+        4,
+        6,
+        5
+      ]
+    },
+    "q8_suggestions": "",
+    "q3_no_suggestions": ""
+  },
+  {
+    "id": "1770612910653",
+    "submittedAt": "2026-02-09T04:55:10.653Z",
+    "department": "지원실",
+    "rank": "부부장",
+    "q1_hasInterview": "yes",
+    "q2_time": "10~20분",
+    "q3_method": "화상",
+    "q3_method_other": "",
+    "q4_guidance": "충분하지 않게 받았다",
+    "q5_reason": [],
+    "q5_reason_other": "",
+    "q6_satisfaction": "만족",
+    "q7_scores": {
+      "items": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ]
+    },
+    "q8_suggestions": "면담시간이 충분히 길었으면 좋겠고, 난이도가 높은 업무에 대해서는 같이 할 수 있는 구조가 되었으면 좋겠음",
+    "q3_no_suggestions": ""
+  }
+]

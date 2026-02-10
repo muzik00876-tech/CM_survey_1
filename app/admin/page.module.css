@@ -1,0 +1,149 @@
+.container {
+    min-height: 100vh;
+    padding: 2rem;
+    background: #f0f2f5;
+    font-family: 'Pretendard', sans-serif;
+}
+
+.header {
+    background: white;
+    padding: 1.5rem 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #1a1a1a;
+}
+
+.controls {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.select {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 0.9rem;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.cardTitle {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: #333;
+    border-left: 3px solid #3498db;
+    padding-left: 0.5rem;
+}
+
+.statValue {
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: #3498db;
+}
+
+.statLabel {
+    color: #666;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.tableSection {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    margin-top: 2rem;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th,
+.table td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+.table th {
+    background: #f8f9fa;
+    font-weight: 600;
+}
+
+.fullWidth {
+    grid-column: 1 / -1;
+}
+
+.downloadBtn {
+    padding: 0.6rem 1.2rem;
+    background: #27ae60;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: 0.9rem;
+}
+
+.downloadBtn:hover {
+    background: #2ecc71;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(39, 174, 96, 0.2);
+}
+
+.scrollTable {
+    overflow-x: auto;
+    margin-top: 1rem;
+    border: 1px solid #eee;
+    border-radius: 8px;
+}
+
+.distTable {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+    min-width: 800px;
+}
+
+.distTable th,
+.distTable td {
+    padding: 0.8rem;
+    text-align: center;
+    border-bottom: 1px solid #eee;
+}
+
+.distTable th {
+    background: #f8f9fa;
+    font-weight: 600;
+    color: #555;
+}
+
+.distTable tr:hover {
+    background: #f9f9f9;
+}
